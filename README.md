@@ -51,3 +51,8 @@ Submit your GitHub repository URL through the course platform.
 ## Support
 Utilize TA office hours, tutoring sessions, class Slack channel, and BCS Learning Assistants for help.
 
+## Acknowledgments
+
+This project received assistance from ChatGPT, an AI language model developed by OpenAI. ChatGPT provided support in generating ideas, clarifying concepts, and assisting with code syntax, which significantly contributed to the development of this project.
+
+

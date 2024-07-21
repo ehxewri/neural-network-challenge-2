@@ -1,5 +1,7 @@
 # Neural Network Challenge - Employee Attrition and Department Fit Prediction
 
+**Project Repo**: [https://github.com/ehxewri/neural-network-challenge-2/blob/main/README.md](https://github.com/ehxewri/neural-network-challenge-2/blob/main/README.md)
+
 ## Background
 You are tasked with creating a neural network that HR can use to predict whether employees are likely to leave the company and identify the department that best fits each employee. This will be achieved using a branched neural network.
 
@@ -7,11 +9,11 @@ You are tasked with creating a neural network that HR can use to predict whether
 - Module 19 Challenge files (Download from the course platform)
 
 ## Setup
-- Create a repository named `neural-network-challenge-2`.
-- Clone the repository locally.
-- Add `attrition.ipynb` to your repository.
-- Push changes to GitHub.
-- Work on `attrition.ipynb` in Google Colab.
+1. Create a repository named `neural-network-challenge-2`.
+2. Clone the repository locally.
+3. Add `attrition.ipynb` to your repository.
+4. Push changes to GitHub.
+5. Work on `attrition.ipynb` in Google Colab.
 
 ## Instructions
 
@@ -52,7 +54,4 @@ Submit your GitHub repository URL through the course platform.
 Utilize TA office hours, tutoring sessions, class Slack channel, and BCS Learning Assistants for help.
 
 ## Acknowledgments
-
 This project received assistance from ChatGPT, an AI language model developed by OpenAI. ChatGPT provided support in generating ideas, clarifying concepts, and assisting with code syntax, which significantly contributed to the development of this project.
-
-
